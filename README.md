@@ -1,2 +1,2 @@
 # abjr-pcca-jsdelivr
-[아빠진로아케데미 PCCA] jsdelivr
+[아빠진로아카데미 PCCA] jsdelivr
