@@ -28,9 +28,12 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0484fc",
-  "background_color": "#0484fc",
-  "id": "abjrPCCA"
+  "theme_color": "#297eff",
+  "background_color": "#297eff",
+  "id": "abjrPCCA",
+  "scope": "/",
+  "orientation": "natural",
+  "lang": "ko"
 }
